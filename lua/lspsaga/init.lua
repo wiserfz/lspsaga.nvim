@@ -86,6 +86,7 @@ local default_config = {
     ly_botright = false,
     number = vim.o.number,
     relativenumber = vim.o.relativenumber,
+    references_opts = true,
     keys = {
       shuttle = '[w',
       toggle_or_open = 'o',
